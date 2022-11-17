@@ -8,7 +8,7 @@ export const Header = () => {
         <nav>
         <h1>uniwebsite</h1>
             <main>
-            <Link to={"/home"}>Home</Link>
+            <Link to={"/"}>Home</Link>
             <Link to={"/contact"}>Contact Us</Link>
             <HashLink to={"/#about"}>About Us</HashLink>
             <HashLink to={"/#portfolio"}>Portfolio</HashLink>
